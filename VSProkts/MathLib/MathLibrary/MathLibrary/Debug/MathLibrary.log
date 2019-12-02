@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+  Generating Code...
+     Creating library D:\VSProkts\MathLib\MathLibrary\Debug\MathLibrary.lib and object D:\VSProkts\MathLib\MathLibrary\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> D:\VSProkts\MathLib\MathLibrary\Debug\MathLibrary.dll
